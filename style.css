@@ -41,3 +41,12 @@ body,html{
 .buttons {
 	text-align: center;
 }
+#b1, #b2{
+	background-color: #397df3;
+	color: white;
+	border-radius: 5px;
+	margin: 20px;
+	line-height: 18px;
+	font-size: 18px;
+	box-shadow: 5px 5px 5px #888888; 
+}
